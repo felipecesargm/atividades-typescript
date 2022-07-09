@@ -1,7 +1,7 @@
 # atividades-typescript
 Atividades do bootcamp Santander. Módulo II: Introdução prática ao typescript.
 
-Fomos desafiados a reescrever códigos em TypeScript, os desafios propostos estão disponíveis no github do expert.
+Fomos desafiados a reescrever códigos em TypeScript, os desafios propostos estão disponíveis no github do expert: [mentoria-typescript](https://github.com/felipecesargm/mentoria-typescript/tree/main/src/desafios).
 
 1º desafio: Como podemos rodar isso em um arquivo .ts sem causar erros? 
 
